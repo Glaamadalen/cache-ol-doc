@@ -9,6 +9,8 @@ nav:
     - Tidtaker: timer.md
     - Resultater: results.md
     - Resultattavle: scoreboard.md
+    - Slack: slack.md
+    - For lag: teams.md
 
 theme: 
   name: material
