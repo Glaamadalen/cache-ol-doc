@@ -1,0 +1,8 @@
+site_name: Cache OL dokumentasjon
+nav:
+    - Hjem: index.md
+    - Brukere / Lag: users.md
+    - Om: about.md
+theme: 
+  name: material
+  language: 'no'
