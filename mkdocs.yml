@@ -2,6 +2,9 @@ site_name: Cache OL dokumentasjon
 nav:
     - Hjem: index.md
     - Brukere / Lag: users.md
+    - Arrangement: event.md
+    - Veipunkter: waypoints.md
+    - Øvelser: exercises.md
     - Om: about.md
 theme: 
   name: material
