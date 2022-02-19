@@ -5,10 +5,11 @@ nav:
     - Arrangement: event.md
     - Veipunkter: waypoints.md
     - Øvelser: exercises.md
+    - Geochecker: checker.md
     - Tidtaker: timer.md
     - Resultater: results.md
     - Resultattavle: scoreboard.md
-    - Om: about.md
+
 theme: 
   name: material
   language: 'no'

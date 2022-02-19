@@ -82,3 +82,12 @@ Ved å scanne en av QR kodene til øvelsene vil arrangører få opp informasjons
 Stenging av enkeltøvelser kan benyttes i løpet av dagen om man som øvelse vakt må ha en pause, eller om man må gjøre andre endringer.
 
 Når man stenger en øvelse kan de som har start fullføre, men det er ikke mulig å starte på nytt
+
+### QR koder
+
+QR koder til øvelser
+
+- Informasjon (Denne benyttes for å raskt åpne informasjon om øvelser, før man starter)
+- Start (Brukes for å starte tidtaker øvelser)
+- Stopp (Brukes for å stoppe tidtaker øvelser)
+- Geocheckere (Kan være flere checkere pr øvelse)
