@@ -64,3 +64,21 @@ For idealtid øvelser angis det samme som for tid øvelser, men i tillegg må id
 #### Lengde og poeng øvelser
 
 For disse øvelsene er det kun om høyest/lavest, kortest/lengst som skal velges
+
+## Nyttig om øvelser
+
+### Stengte øvelser
+
+Alle øvelser er stengt fram til de åpner. Dette gjør at lagene ikke kan starte med oppgavene, oppgavene er heller ikke synlig på kartet.
+
+![Stengte øvelser](img/closed-exercises.png)
+
+Øvelser kan åpnes / stenges enkeltvis eller ved å markere avkrysningsbokser i tabellen.
+
+![Øvelse info](img/exercise-info.png)
+
+Ved å scanne en av QR kodene til øvelsene vil arrangører få opp informasjonsside om øvelsen. Her kan man raskt og enkelt åpne / stenge enkeltøvelser.
+
+Stenging av enkeltøvelser kan benyttes i løpet av dagen om man som øvelse vakt må ha en pause, eller om man må gjøre andre endringer.
+
+Når man stenger en øvelse kan de som har start fullføre, men det er ikke mulig å starte på nytt
